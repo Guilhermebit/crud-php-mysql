@@ -1,0 +1,13 @@
+{
+  "name": "guilherme/crud-php-mysql",
+  "description": "CRUD em php e MySQL",
+  "require": {
+    "php": ">=8.2",
+    "vlucas/phpdotenv": "^5.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
