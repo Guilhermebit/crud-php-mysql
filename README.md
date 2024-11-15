@@ -28,4 +28,4 @@ Já que o cpf precisa ser cadastrado em um formato válido utilizei esse site pa
 
 ## O Projeto será conforme visto abaixo: 
 
-![lista_crud](https://github.com/user-attachments/assets/f690788d-8b42-43a2-8c2b-8d76459930d7)
+![Lista de Usuários](Contents/lista_crud.png)
